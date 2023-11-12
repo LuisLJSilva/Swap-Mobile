@@ -1,0 +1,25 @@
+P;Swap Mobile;Sistema de Agendamento de Trocas de Aparelhos Usados por Novos
+C;OrdemDeTroca
+A;urgente;boolean;Se a troca é urgente ou não
+A;dataAgendamento;LocalDateTime;Data e hora da ordem de troca
+A;status;String;Status da ordem de troca (Pendente, Concluído, Agendado)
+C;Cliente
+A;nome;String;Nome do cliente
+A;cpf;String;CPF do cliente
+A;email;String;E-mail para contato
+C;Troca
+A;tipoTroca;String;Descrição do tipo de troca (Upgrade, Downgrade, Troca Similar)
+A;valorTroca;float;Valor da troca
+A;codigoTroca;int;Código para identificação da troca
+C;Avaliacao
+A;condicaoAparelho;String;Condição do aparelho (Bom, Regular, Ruim)
+A;valorAvaliado;float;Valor avaliado do telefone usado
+A;observacoes;String;Quaisquer observações sobre o telefone usado
+C;NovoTelefone
+A;modelo;String;Modelo do novo telefone
+A;preco;float;Preço do novo telefone
+A;garantia;String;Duração da garantia do novo telefone
+C;Entrega
+A;sedex;boolean;Se a entrega foi feita via sedex
+A;enderecoEntrega;String;Endereço de entrega
+A;statusEntrega;String;Status da entrega (Pendente, Enviado, Entregue)

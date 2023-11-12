@@ -1,0 +1,3 @@
+Troca Similar;100.00;2007;Galaxy S21;2500.00;1 ano;1
+Upgrade;350.00;2005;iPhone 12;3000.00;2 anos;2
+Downgrade;50.00;2006;Xiaomi Mi 11;2000.00;1 ano;3

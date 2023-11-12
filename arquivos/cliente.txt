@@ -1,0 +1,6 @@
+Luis;12312312312;luis@luis.com
+Maria;23423423423;maria@maria.com
+Cristovao;34534534534;cristovao@cristovao.com
+Aninha;45645645645;ana@ana.com
+José;56756756756;jose@jose.com
+Estácio;98798798798;estacio@estacio.com

@@ -1,0 +1,3 @@
+admin@admin.com;Administrador;123
+luis@luis.com;Luis;123
+tecnico@tecnico.com;Tecnico;123

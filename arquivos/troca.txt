@@ -1,0 +1,9 @@
+Downgrade;800.00;1001;Bom;50.00;Sem observações;1;A
+Regular;500.00;1002;true;0.5;Pequenos arranhões;2;A
+Ruim;300.00;1003;false;0.9;Tela quebrada;3;A
+Downgrade;2500.00;2001;Galaxy S23;100.00;1 ano;1;N
+false;3000.00;2002;iPhone 14;1500.00;2 anos;2;N
+true;2000.00;2003;Xiaomi Pocofone;800.00;1 ano;3;N
+Upgrade;100.00;3001;2023-11-20;false;1.2;Rua dos Abacateiros, 123, Cidade Sao José;Enviado;1;E
+Downgrade;150.00;3002;2023-12-05;true;0.9;Av. Borim, 456, Cidade Itaquá;Pendente;2;E
+Troca Similar;120.00;3003;2023-11-25;false;Praça da Sé, 789, Cidade SP;Entregue;3;E

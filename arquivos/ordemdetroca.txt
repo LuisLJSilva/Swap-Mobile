@@ -1,0 +1,16 @@
+OT;Pedido da Maria;Maria Fernandes;9988776655;maria.fernandes@exemplo.com
+A;Avaliação LG G7;100.00;0003;false;Bom;Sem arranhões
+N;LG G8 ThinQ;500.00;0103;true;Modelo 2019;Garantia 2 anos
+E;Entrega Rápida;40.00;0103;true;Entrega em 48h;Praça Central, 789
+OT;Pedido do Carlos;Carlos Andrade;912345678;carlos.andrade@exemplo.com
+A;Avaliação Moto G6;80.00;0004;false;Regular;Bateria desgastada
+N;Moto G7;400.00;0104;false;Modelo 2018;Garantia 1 ano
+E;Entrega Padrão;25.00;0104;false;Entrega em 5 dias;Rua dos Andrades, 101
+OT;Pedido da Ana;Ana Beatriz;987654321;ana.beatriz@exemplo.com
+A;Avaliação OnePlus 6;300.00;0005;true;Excelente;Acompanha acessórios
+N;OnePlus 7 Pro;900.00;0105;true;Modelo 2020;Garantia 1 ano e meio
+E;Entrega Expressa;55.00;0105;true;Entrega em 24h;Av. Beatriz, 202
+OT;Pedido do João;João Pereira;9988776655;joao.pereira@exemplo.com
+A;Avaliação iPhone X;250.00;0006;true;Bom;Ligeiras marcas de uso
+N;iPhone 11;1100.00;0106;true;Modelo 2021;Garantia 1 ano
+E;Entrega Rápida;45.00;0106;true;Entrega em 2 dias;Rua do João, 303
